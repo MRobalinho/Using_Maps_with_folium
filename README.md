@@ -20,4 +20,5 @@ Once you have Python, Folium and the data, you can go ahead and execute the foll
 
 
 https://pythonhow.com/web-mapping-with-python-and-folium/
+https://python-visualization.github.io/folium/quickstart.html
 
