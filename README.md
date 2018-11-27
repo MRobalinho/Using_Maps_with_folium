@@ -6,9 +6,13 @@ This Folium tutorial shows how to create a Leaflet web map from scratch with Pyt
 To make the map you need these:
 
 >Python installed
+>
 >Python Folium installed
+>
 >Basic understanding of Python
+>
 >The input datasets which you can download from these links:
+>
 >The volcanoes point locations
 
 The GeoJson world polygon layer with population dataRight click and Save As if files open in the browser.
